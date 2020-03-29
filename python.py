@@ -1,3 +1,4 @@
+#mysql connect program.
 import mysql.connector
 
 crudyoutube= mysql.connector.connect(host="localhost", user="root",passwd="")
